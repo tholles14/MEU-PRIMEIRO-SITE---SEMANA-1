@@ -77,3 +77,95 @@
 
 </body>
 </html>
+
+
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+.title{
+    text-align: center;
+}
+.marilia p{
+    text-align: center;
+}
+.marilia{
+    max-width: 301px;
+    margin: auto;
+    text-align: center;
+    
+
+    float: left;
+
+    border: 1px solid;
+
+    top: -200px;
+}
+.marilia h3{
+    background-color: black;
+    color: white;
+}
+.marilia img{
+    margin-top: -1px;
+    max-width: 300px;
+}
+.marilia:hover{
+    background-color: rgb(93, 159, 235);
+    box-shadow: 1px 10px 10px rgb(7, 53, 105);
+}
+.gustavo p{
+    text-align: center;
+}
+.gustavo{
+    float: right;
+    max-width: 301px;
+    margin: auto;
+    text-align: center;
+
+    
+
+    border: 1px solid;
+
+    top: -200px;
+}
+.gustavo h3{
+    background-color: black;
+    color: white;
+}
+.gustavo img{
+    margin-top: -1px;
+    max-width: 300px;
+}
+.gustavo:hover{
+    background-color: rgb(93, 159, 235);
+    box-shadow: 1px 10px 10px rgb(7, 53, 105);
+}
+.zecristiano p{
+    text-align: center;
+}
+.zecristiano{
+    float: center;
+    max-width: 301px;
+    margin: auto;
+    text-align: center;
+
+    border: 1px solid;
+
+    top: -200px;
+}
+.zecristiano h3{
+    background-color: black;
+    color: white;
+}
+.zecristiano img{
+    margin-top: -1px;
+    max-width: 300px;
+}
+.zecristiano:hover{
+    background-color: rgb(93, 159, 235);
+    box-shadow: 1px 10px 10px rgb(7, 53, 105);
+}
